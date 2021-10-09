@@ -1,0 +1,16 @@
+D:\Документы\проекты VS\Homework3-new\oddEvenDefiner\bin\Debug\net5.0\oddEvenDefiner.exe
+D:\Документы\проекты VS\Homework3-new\oddEvenDefiner\bin\Debug\net5.0\oddEvenDefiner.deps.json
+D:\Документы\проекты VS\Homework3-new\oddEvenDefiner\bin\Debug\net5.0\oddEvenDefiner.runtimeconfig.json
+D:\Документы\проекты VS\Homework3-new\oddEvenDefiner\bin\Debug\net5.0\oddEvenDefiner.runtimeconfig.dev.json
+D:\Документы\проекты VS\Homework3-new\oddEvenDefiner\bin\Debug\net5.0\oddEvenDefiner.dll
+D:\Документы\проекты VS\Homework3-new\oddEvenDefiner\bin\Debug\net5.0\ref\oddEvenDefiner.dll
+D:\Документы\проекты VS\Homework3-new\oddEvenDefiner\bin\Debug\net5.0\oddEvenDefiner.pdb
+D:\Документы\проекты VS\Homework3-new\oddEvenDefiner\obj\Debug\net5.0\oddEvenDefiner.csproj.AssemblyReference.cache
+D:\Документы\проекты VS\Homework3-new\oddEvenDefiner\obj\Debug\net5.0\oddEvenDefiner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\проекты VS\Homework3-new\oddEvenDefiner\obj\Debug\net5.0\oddEvenDefiner.AssemblyInfoInputs.cache
+D:\Документы\проекты VS\Homework3-new\oddEvenDefiner\obj\Debug\net5.0\oddEvenDefiner.AssemblyInfo.cs
+D:\Документы\проекты VS\Homework3-new\oddEvenDefiner\obj\Debug\net5.0\oddEvenDefiner.csproj.CoreCompileInputs.cache
+D:\Документы\проекты VS\Homework3-new\oddEvenDefiner\obj\Debug\net5.0\oddEvenDefiner.dll
+D:\Документы\проекты VS\Homework3-new\oddEvenDefiner\obj\Debug\net5.0\ref\oddEvenDefiner.dll
+D:\Документы\проекты VS\Homework3-new\oddEvenDefiner\obj\Debug\net5.0\oddEvenDefiner.pdb
+D:\Документы\проекты VS\Homework3-new\oddEvenDefiner\obj\Debug\net5.0\oddEvenDefiner.genruntimeconfig.cache
