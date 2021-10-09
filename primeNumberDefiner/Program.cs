@@ -6,11 +6,12 @@ namespace primeNumberDefiner
     {
         static void Main(string[] args)
         {
-            int num = 0, i, m = 0; 
+            int num = 0, i;
+            double m = 0; 
             bool flag = false;    
             Console.Write("Введите число: ");    
             num = int.Parse(Console.ReadLine());  
-            m = num / 2;    
+            m = Math.Sqrt(num);    
             for(i = 2; i <= m; i++)    
             {    
                 if(num % i == 0)    
