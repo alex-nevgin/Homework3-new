@@ -1,0 +1,16 @@
+D:\Документы\проекты VS\Homework3-new\primeNumberDefiner\bin\Debug\net5.0\primeNumberDefiner.exe
+D:\Документы\проекты VS\Homework3-new\primeNumberDefiner\bin\Debug\net5.0\primeNumberDefiner.deps.json
+D:\Документы\проекты VS\Homework3-new\primeNumberDefiner\bin\Debug\net5.0\primeNumberDefiner.runtimeconfig.json
+D:\Документы\проекты VS\Homework3-new\primeNumberDefiner\bin\Debug\net5.0\primeNumberDefiner.runtimeconfig.dev.json
+D:\Документы\проекты VS\Homework3-new\primeNumberDefiner\bin\Debug\net5.0\primeNumberDefiner.dll
+D:\Документы\проекты VS\Homework3-new\primeNumberDefiner\bin\Debug\net5.0\ref\primeNumberDefiner.dll
+D:\Документы\проекты VS\Homework3-new\primeNumberDefiner\bin\Debug\net5.0\primeNumberDefiner.pdb
+D:\Документы\проекты VS\Homework3-new\primeNumberDefiner\obj\Debug\net5.0\primeNumberDefiner.csproj.AssemblyReference.cache
+D:\Документы\проекты VS\Homework3-new\primeNumberDefiner\obj\Debug\net5.0\primeNumberDefiner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\проекты VS\Homework3-new\primeNumberDefiner\obj\Debug\net5.0\primeNumberDefiner.AssemblyInfoInputs.cache
+D:\Документы\проекты VS\Homework3-new\primeNumberDefiner\obj\Debug\net5.0\primeNumberDefiner.AssemblyInfo.cs
+D:\Документы\проекты VS\Homework3-new\primeNumberDefiner\obj\Debug\net5.0\primeNumberDefiner.csproj.CoreCompileInputs.cache
+D:\Документы\проекты VS\Homework3-new\primeNumberDefiner\obj\Debug\net5.0\primeNumberDefiner.dll
+D:\Документы\проекты VS\Homework3-new\primeNumberDefiner\obj\Debug\net5.0\ref\primeNumberDefiner.dll
+D:\Документы\проекты VS\Homework3-new\primeNumberDefiner\obj\Debug\net5.0\primeNumberDefiner.pdb
+D:\Документы\проекты VS\Homework3-new\primeNumberDefiner\obj\Debug\net5.0\primeNumberDefiner.genruntimeconfig.cache

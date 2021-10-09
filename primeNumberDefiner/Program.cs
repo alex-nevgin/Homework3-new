@@ -6,24 +6,22 @@ namespace primeNumberDefiner
     {
         static void Main(string[] args)
         {
-            int num;
-            int rem = 0;
-            bool ifPrime;
-
-            Console.WriteLine("Введите число: ");
-            num = int.Parse(Console.ReadLine());
-
-            int i = num;
-
-            while (i <= i - 1)
-            {
-
-                
-                if (rem == 0)
-                {
-                    Console.WriteLine("Найден делитель. Число не является");
-                }
-            }
+            int num = 0, i, m = 0; 
+            bool flag = false;    
+            Console.Write("Введите число: ");    
+            num = int.Parse(Console.ReadLine());  
+            m = num / 2;    
+            for(i = 2; i <= m; i++)    
+            {    
+                if(num % i == 0)    
+                {    
+                    Console.Write("Число не простое.");    
+                    flag = true;    
+                    break;    
+                }    
+            }    
+            if (flag == false)    
+                Console.Write("Число простое.");   
         }
     }
 }
