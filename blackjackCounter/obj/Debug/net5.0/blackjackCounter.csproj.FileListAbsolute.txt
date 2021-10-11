@@ -1,0 +1,16 @@
+D:\Документы\проекты VS\Homework3-new\blackjackCounter\obj\Debug\net5.0\blackjackCounter.csproj.AssemblyReference.cache
+D:\Документы\проекты VS\Homework3-new\blackjackCounter\obj\Debug\net5.0\blackjackCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\проекты VS\Homework3-new\blackjackCounter\obj\Debug\net5.0\blackjackCounter.AssemblyInfoInputs.cache
+D:\Документы\проекты VS\Homework3-new\blackjackCounter\obj\Debug\net5.0\blackjackCounter.AssemblyInfo.cs
+D:\Документы\проекты VS\Homework3-new\blackjackCounter\obj\Debug\net5.0\blackjackCounter.csproj.CoreCompileInputs.cache
+D:\Документы\проекты VS\Homework3-new\blackjackCounter\bin\Debug\net5.0\blackjackCounter.exe
+D:\Документы\проекты VS\Homework3-new\blackjackCounter\bin\Debug\net5.0\blackjackCounter.deps.json
+D:\Документы\проекты VS\Homework3-new\blackjackCounter\bin\Debug\net5.0\blackjackCounter.runtimeconfig.json
+D:\Документы\проекты VS\Homework3-new\blackjackCounter\bin\Debug\net5.0\blackjackCounter.runtimeconfig.dev.json
+D:\Документы\проекты VS\Homework3-new\blackjackCounter\bin\Debug\net5.0\blackjackCounter.dll
+D:\Документы\проекты VS\Homework3-new\blackjackCounter\bin\Debug\net5.0\ref\blackjackCounter.dll
+D:\Документы\проекты VS\Homework3-new\blackjackCounter\bin\Debug\net5.0\blackjackCounter.pdb
+D:\Документы\проекты VS\Homework3-new\blackjackCounter\obj\Debug\net5.0\blackjackCounter.dll
+D:\Документы\проекты VS\Homework3-new\blackjackCounter\obj\Debug\net5.0\ref\blackjackCounter.dll
+D:\Документы\проекты VS\Homework3-new\blackjackCounter\obj\Debug\net5.0\blackjackCounter.pdb
+D:\Документы\проекты VS\Homework3-new\blackjackCounter\obj\Debug\net5.0\blackjackCounter.genruntimeconfig.cache
