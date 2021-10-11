@@ -2,17 +2,20 @@
 
 namespace primeNumberDefiner
 {
+    /// <summary>
+    /// Программа, определяющая простоту числа.
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
         {
-            int num = 0, i;
+            int num = 0; // Стартовое значение
             double m = 0; 
-            bool flag = false;    
+            bool flag = false; // Логическая переменная, значение которой изменяется, если число не является простым   
             Console.Write("Введите число: ");    
             num = int.Parse(Console.ReadLine());  
             m = Math.Sqrt(num);    
-            for(i = 2; i <= m; i++)    
+            for(int i = 2; i <= m; i++)    
             {    
                 if(num % i == 0)    
                 {    

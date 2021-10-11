@@ -4,14 +4,17 @@ namespace blackjackCounter
 {
     class Program
     {
+        /// <summary>
+        /// Программа расчета суммы карт руки при игре в блэкджек.
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
-
             Console.Write("Введите число карт: ");
-            int handCards = int.Parse(Console.ReadLine());
-
-            int handValue = 0;
-
+            int handCards = int.Parse(Console.ReadLine()); // количество карт
+            int handValue = 0; // Сумма руки
+            
+            // Расчет суммы руки
             for (int i = 1; i <= handCards; i++)
             {
                 Console.Write($"Введите номинал {i}-й карты: ");
@@ -72,12 +75,11 @@ namespace blackjackCounter
                         handValue = Value + handValue;
                         break;
                     default:
-                        Console.WriteLine("Допустимы номиналы 2-10, J, Q, K, T");
+                        Console.WriteLine("Допустимы номиналы 2-10, J, Q, K, T"); // вывод ошибки
                         break;
                 }
             }
-            
-            Console.WriteLine($"Сумма карт руки: " + handValue);
+            Console.WriteLine($"Сумма карт руки: " + handValue); // Вывод
             Console.ReadKey();
         }
     }
