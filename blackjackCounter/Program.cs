@@ -14,71 +14,71 @@ namespace blackjackCounter
 
             for (int i = 1; i <= handCards; i++)
             {
-                Console.WriteLine("Введите номинал карты: ");
+                Console.Write($"Введите номинал {i}-й карты: ");
                 string cardValue = Console.ReadLine();
                 int Value;
                 switch (cardValue)
                 {
                     case "2":
                         Value = Convert.ToInt32(cardValue);
-                        handValue = Value;
+                        handValue = Value + handValue;
                         break;
                     case "3":
                         Value = Convert.ToInt32(cardValue);
-                        handValue = Value;
+                        handValue = Value + handValue;
                         break;
                     case "4":
                         Value = Convert.ToInt32(cardValue);
-                        handValue = Value;
+                        handValue = Value + handValue;
                         break;
                     case "5":
                         Value = Convert.ToInt32(cardValue);
-                        handValue = Value;
+                        handValue = Value + handValue;
                         break;
                     case "6":
                         Value = Convert.ToInt32(cardValue);
-                        handValue = Value;
+                        handValue = Value + handValue;
                         break;
                     case "7":
                         Value = Convert.ToInt32(cardValue);
-                        handValue = Value;
+                        handValue = Value + handValue;
                         break;
                     case "8":
                         Value = Convert.ToInt32(cardValue);
-                        handValue = Value;
+                        handValue = Value + handValue;
                         break;
                     case "9":
                         Value = Convert.ToInt32(cardValue);
-                        handValue = Value;
+                        handValue = Value + handValue;
                         break;
                     case "10":
                         Value = Convert.ToInt32(cardValue);
-                        handValue = Value;
+                        handValue = Value + handValue;
                         break;
                     case "J":
                         Value = 10;
-                        handValue = Value;
+                        handValue = Value + handValue;
                         break;
                     case "Q":
                         Value = 10;
-                        handValue = Value;
+                        handValue = Value + handValue;
                         break;
                     case "K":
                         Value = 10;
-                        handValue = Value;
+                        handValue = Value + handValue;
                         break;
                     case "T":
                         Value = 10;
-                        handValue = Value;
+                        handValue = Value + handValue;
                         break;
                     default:
                         Console.WriteLine("Допустимы номиналы 2-10, J, Q, K, T");
                         break;
                 }
-
-                handValue = handValue+handValue;
             }
+            
             Console.WriteLine($"Сумма карт руки: " + handValue);
+            Console.ReadKey();
         }
     }
 }
