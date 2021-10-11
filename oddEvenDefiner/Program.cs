@@ -22,6 +22,8 @@ namespace oddEvenDefiner
             {
                 Console.WriteLine("Введенное число - нечетное");
             }
+
+            Console.ReadKey();
         }
     }
 }

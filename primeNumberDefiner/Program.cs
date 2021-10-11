@@ -25,7 +25,9 @@ namespace primeNumberDefiner
                 }    
             }    
             if (flag == false)    
-                Console.Write("Число простое.");   
+                Console.Write("Число простое.");
+            
+            Console.ReadKey();
         }
     }
 }

@@ -81,6 +81,7 @@ namespace blackjackCounter
             }
             Console.WriteLine($"Сумма карт руки: " + handValue); // Вывод
             Console.ReadKey();
+            
         }
     }
 }
